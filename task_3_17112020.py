@@ -1,0 +1,5 @@
+num = input("Введите число: ")
+one_num = int(num)
+two_num = int(num + num)
+three_num = int(num + num + num)
+print(one_num + two_num + three_num)

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:lesson_1" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="067ec1fc-fb33-412c-83aa-4060952f93a0" name="Default Changelist" comment="Create new file with all HomeWork for Lesson 2">
+      <change afterPath="$PROJECT_DIR$/HM_Lesson2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/KlepachDaria/Projects" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kQYqcuyRyGvd44II2FrEpcmX9F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.task_5_17112020">
+    <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_2_17112020" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_2_17112020.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_5_17112020" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_5_17112020.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.task_1" />
+      <item itemvalue="Python.task_2_17112020" />
+      <item itemvalue="Python.task_5_17112020" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="067ec1fc-fb33-412c-83aa-4060952f93a0" name="Default Changelist" comment="" />
+      <created>1605634475700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605634475700</updated>
+    </task>
+    <task id="LOCAL-00001" summary="create file with Task 1 17.11.2020">
+      <created>1605635194315</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605635194315</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Work with variables">
+      <created>1605635505990</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605635505990</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create Task 2. Counting hours, minutes, seconds">
+      <created>1605635772234</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605635772234</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create task_3 17112020. Find the sum of the numbers">
+      <created>1605636073639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605636073639</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create Task 4. Find the largest number.">
+      <created>1605636411515</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605636411515</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create Task 5. Project profitability.">
+      <created>1605636760392</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605636760392</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Create Task 6. Count days and kilometers.">
+      <created>1605637022582</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605637022582</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Create Task 1. Work with variables 17/11/2020.">
+      <created>1605640329682</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605640329682</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Create new file with all tasks 17112020">
+      <created>1605640912915</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605640912915</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Create new file with all HomeWork for Lesson 2">
+      <created>1606588801429</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606588801429</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Create new file with all HomeWork for Lesson 2">
+      <created>1606589237640</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606589237640</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="lesson_1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create file with Task 1 17.11.2020" />
+    <MESSAGE value="Work with variables" />
+    <MESSAGE value="Create Task 2. Counting hours, minutes, seconds" />
+    <MESSAGE value="Create task_3 17112020. Find the sum of the numbers" />
+    <MESSAGE value="Create Task 4. Find the largest number." />
+    <MESSAGE value="Create Task 5. Project profitability." />
+    <MESSAGE value="Create Task 6. Count days and kilometers." />
+    <MESSAGE value="Create Task 1. Work with variables 17/11/2020." />
+    <MESSAGE value="Create new file with all tasks 17112020" />
+    <MESSAGE value="Create new file with all HomeWork for Lesson 2 on branch Leson 2" />
+    <MESSAGE value="Create new file with all HomeWork for Lesson 2 on branch Lesson 2" />
+    <MESSAGE value="Create new file with all HomeWork for Lesson 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create new file with all HomeWork for Lesson 2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="0" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606589882325">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="0" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1606589882325" />
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1606590676059">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1606590676059" />
+    <state x="507" y="271" key="Github.CreateGistDialog" timestamp="1606589928488">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="507" y="271" key="Github.CreateGistDialog/0.0.1366.738@0.0.1366.738" timestamp="1606589928488" />
+    <state width="1345" height="227" key="GridCell.Tab.0.bottom" timestamp="1606590675898">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606590675898" />
+    <state width="1345" height="227" key="GridCell.Tab.0.center" timestamp="1606590675897">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1606590675897" />
+    <state width="1345" height="227" key="GridCell.Tab.0.left" timestamp="1606590675897">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1606590675897" />
+    <state width="1345" height="227" key="GridCell.Tab.0.right" timestamp="1606590675898">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1606590675898" />
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom" timestamp="1606590675898">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606590675898" />
+    <state width="1345" height="227" key="GridCell.Tab.1.center" timestamp="1606590675898">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1606590675898" />
+    <state width="1345" height="227" key="GridCell.Tab.1.left" timestamp="1606590675898">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1606590675898" />
+    <state width="1345" height="227" key="GridCell.Tab.1.right" timestamp="1606590675898">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1606590675898" />
+    <state x="489" y="71" key="RollbackChangesDialog" timestamp="1606589384811">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="489" y="71" key="RollbackChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1606589384811" />
+    <state x="205" y="114" key="Vcs.Push.Dialog.v2" timestamp="1606589346811">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="205" y="114" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1606589346811" />
+    <state x="500" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606589211359">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="500" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1606589211359" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1606590016252">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1606590016252" />
+  </component>
+</project>

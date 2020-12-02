@@ -25,11 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c54cf7b-2576-4f60-bfc9-49e1da65730b" name="Default Changelist" comment="Create Home work 4, task1">
-      <change afterPath="$PROJECT_DIR$/les_4/task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_lesson3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4.py" beforeDir="false" />
+    <list default="true" id="8c54cf7b-2576-4f60-bfc9-49e1da65730b" name="Default Changelist" comment="Lesson 3_i don't know">
+      <change afterPath="$PROJECT_DIR$/lesson5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson_3" />
+        <entry key="$PROJECT_DIR$" value="lesson_4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -179,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606894752400</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lesson 3">
+      <created>1606918325278</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606918325278</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lesson 3_i don't know">
+      <created>1606918347381</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606918347381</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,29 +222,31 @@
     <MESSAGE value="Create Tasks 1-4 for Lesson 3." />
     <MESSAGE value="Create new branch" />
     <MESSAGE value="Create Home work 4, task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Home work 4, task1" />
+    <MESSAGE value="Lesson 3" />
+    <MESSAGE value="Lesson 3_i don't know" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 3_i don't know" />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="105" key="#Servers" timestamp="1606892034776">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="391" y="105" key="#Servers/0.0.1366.738@0.0.1366.738" timestamp="1606892034776" />
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1606903698912">
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1606922994525">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606903698912" />
-    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1606903698911">
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606922994525" />
+    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1606922994524">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1606903698911" />
-    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1606903698911">
+    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1606922994524" />
+    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1606922994524">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1606903698911" />
-    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1606903698912">
+    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1606922994524" />
+    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1606922994524">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1606903698912" />
+    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1606922994524" />
     <state width="1345" height="218" key="GridCell.Tab.1.bottom" timestamp="1606902140506">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -254,10 +267,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1606892119201" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1606894768784">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1606918353715">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1606894768784" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1606918353715" />
     <state x="293" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606900737940">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

@@ -25,9 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c54cf7b-2576-4f60-bfc9-49e1da65730b" name="Default Changelist" comment="Lesson 3_i don't know">
-      <change afterPath="$PROJECT_DIR$/lesson5.py" afterDir="false" />
-    </list>
+    <list default="true" id="8c54cf7b-2576-4f60-bfc9-49e1da65730b" name="Default Changelist" comment="Create new file for lesson 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606918347381</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Create new file for lesson 5">
+      <created>1606923073102</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606923073102</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,29 +229,30 @@
     <MESSAGE value="Create Home work 4, task1" />
     <MESSAGE value="Lesson 3" />
     <MESSAGE value="Lesson 3_i don't know" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 3_i don't know" />
+    <MESSAGE value="Create new file for lesson 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create new file for lesson 5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="105" key="#Servers" timestamp="1606892034776">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="391" y="105" key="#Servers/0.0.1366.738@0.0.1366.738" timestamp="1606892034776" />
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1606922994525">
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1606923082662">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606922994525" />
-    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1606922994524">
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606923082662" />
+    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1606923082661">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1606922994524" />
-    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1606922994524">
+    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1606923082661" />
+    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1606923082661">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1606922994524" />
-    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1606922994524">
+    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1606923082661" />
+    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1606923082662">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1606922994524" />
+    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1606923082662" />
     <state width="1345" height="218" key="GridCell.Tab.1.bottom" timestamp="1606902140506">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

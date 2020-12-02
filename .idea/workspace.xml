@@ -25,7 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c54cf7b-2576-4f60-bfc9-49e1da65730b" name="Default Changelist" comment="Create Tasks 1-4 for Lesson 3." />
+    <list default="true" id="8c54cf7b-2576-4f60-bfc9-49e1da65730b" name="Default Changelist" comment="Create new branch">
+      <change afterPath="$PROJECT_DIR$/lesson4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_lesson3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW_lesson3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +60,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -87,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606813053208</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create new branch">
+      <created>1606822626484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606822626484</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,9 +129,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create new file with Tasks for Lesson 3." />
     <MESSAGE value="Create Tasks 1-4 for Lesson 3." />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Tasks 1-4 for Lesson 3." />
+    <MESSAGE value="Create new branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create new branch" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="391" y="105" key="#Servers" timestamp="1606892034776">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="391" y="105" key="#Servers/0.0.1366.738@0.0.1366.738" timestamp="1606892034776" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1606892119201">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1606892119201" />
     <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1606822596688">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

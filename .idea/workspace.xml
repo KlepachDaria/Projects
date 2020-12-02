@@ -25,10 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c54cf7b-2576-4f60-bfc9-49e1da65730b" name="Default Changelist" comment="Create new branch">
-      <change afterPath="$PROJECT_DIR$/lesson4.py" afterDir="false" />
+    <list default="true" id="8c54cf7b-2576-4f60-bfc9-49e1da65730b" name="Default Changelist" comment="Create Home work 4, task1">
+      <change afterPath="$PROJECT_DIR$/les_4/task_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_lesson3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW_lesson3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_lesson3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +62,78 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Python.lesson4 (1)">
+    <configuration name="lesson4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/les_4" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les_4/lesson4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/les_4" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les_4/task_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lesson4 (1)" />
+        <item itemvalue="Python.task_1" />
+        <item itemvalue="Python.lesson4" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -99,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606822626484</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Create Home work 4, task1">
+      <created>1606894752399</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606894752400</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,21 +210,58 @@
     <MESSAGE value="Create new file with Tasks for Lesson 3." />
     <MESSAGE value="Create Tasks 1-4 for Lesson 3." />
     <MESSAGE value="Create new branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create new branch" />
+    <MESSAGE value="Create Home work 4, task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Home work 4, task1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="105" key="#Servers" timestamp="1606892034776">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="391" y="105" key="#Servers/0.0.1366.738@0.0.1366.738" timestamp="1606892034776" />
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1606903698912">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606903698912" />
+    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1606903698911">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1606903698911" />
+    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1606903698911">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1606903698911" />
+    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1606903698912">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1606903698912" />
+    <state width="1345" height="218" key="GridCell.Tab.1.bottom" timestamp="1606902140506">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="218" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606902140506" />
+    <state width="1345" height="218" key="GridCell.Tab.1.center" timestamp="1606902140506">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="218" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1606902140506" />
+    <state width="1345" height="218" key="GridCell.Tab.1.left" timestamp="1606902140505">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="218" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1606902140505" />
+    <state width="1345" height="218" key="GridCell.Tab.1.right" timestamp="1606902140506">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="218" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1606902140506" />
     <state x="184" y="14" key="SettingsEditor" timestamp="1606892119201">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1606892119201" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1606822596688">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1606894768784">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1606822596688" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1606894768784" />
+    <state x="293" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606900737940">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="293" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1606900737940" />
     <state x="500" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606813018163">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

@@ -73,7 +73,7 @@ print("\nTask 6, a)")
 from itertools import count
 from itertools import cycle
 
-
+# решение мое
 def generator_nums(start, end):
     for i in count(start):
         if i > end:
@@ -81,11 +81,16 @@ def generator_nums(start, end):
         else:
             print(i)
 
-
 generator_nums(3, 10)
+
+# разбор здания на занятии
+
+for i in count(int(input("ведите стартовое число: "))):
+    print(i)
 
 print("\nTask 6, b)")
 
+# мое решение
 
 def generator_list(list, end):
     count = 0
@@ -99,6 +104,13 @@ def generator_list(list, end):
 list_6 = [1, 2, 3]
 generator_list(list_6, 5)
 
+# разбор решения на занятии
+iter = cycle(list_6)
+stop = ''
+
+while stop != 'q':
+    print(next(iter), end = '')
+    stop = input("Нажмите q, чтобы закончить.")
 # 7. Реализовать генератор с помощью функции с ключевым словом yield, создающим очередное значение.
 # При вызове функции должен создаваться объект-генератор. Функция должна вызываться следующим образом:
 # for el in fact(n). Функция отвечает за получение факториала числа,

@@ -87,6 +87,8 @@ generator_nums(3, 10)
 
 for i in count(int(input("ведите стартовое число: "))):
     print(i)
+    if i == 10:
+        break
 
 print("\nTask 6, b)")
 
@@ -110,7 +112,7 @@ stop = ''
 
 while stop != 'q':
     print(next(iter), end = '')
-    stop = input("Нажмите q, чтобы закончить.")
+    stop = input("\nНажмите q, чтобы закончить.")
 # 7. Реализовать генератор с помощью функции с ключевым словом yield, создающим очередное значение.
 # При вызове функции должен создаваться объект-генератор. Функция должна вызываться следующим образом:
 # for el in fact(n). Функция отвечает за получение факториала числа,
@@ -119,7 +121,7 @@ while stop != 'q':
 # Например, факториал четырёх 4! = 1 * 2 * 3 * 4 = 24.
 print("\nTask 7")
 
-
+# мое решение
 def fact(n):
     val = 1
     for i in range(1, n + 1):
@@ -131,3 +133,19 @@ def fact(n):
 num = int(input("Введите число для получения факториала: "))
 for el in fact(num):
     print(el)
+
+# разбор на занятии
+from math import factorial
+from itertools import count
+
+def fibo_gen():
+    for el in count(1):
+        yield factorial(el)
+
+
+x = 1
+for i in fibo_gen():
+    print('Factorial {} - {}'.format(x,i))
+    if x == 15:
+        break
+    x += 1

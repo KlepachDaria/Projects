@@ -44,8 +44,9 @@ from collections import Counter
 
 list_4 = [2, 2, 2, 7, 23, 1, 44, 44, 3, 2, 10, 7, 4, 11]
 
-c = Counter(list_4)
-task_4 = [i for i in list_4 if c[i] == 1]
+#c = Counter(list_4)
+#task_4 = [i for i in list_4 if c[i] == 1]
+task_4 = [i for i in list_4 if list_4.count(i) == 1]
 print(task_4)
 
 # 5. Реализовать формирование списка, используя функцию range() и возможности генератора.

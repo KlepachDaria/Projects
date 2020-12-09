@@ -25,18 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c54cf7b-2576-4f60-bfc9-49e1da65730b" name="Default Changelist" comment="Change Task 4.1">
-      <change afterPath="$PROJECT_DIR$/les_5/task2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les_5/task3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les_5/task4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les_5/task41.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les_5/task6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les_5/task7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les_5/task7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/les_5/lesson5.py" beforeDir="false" afterPath="$PROJECT_DIR$/les_5/lesson5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/les_5/task1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/les_5/task1.txt" afterDir="false" />
-    </list>
+    <list default="true" id="8c54cf7b-2576-4f60-bfc9-49e1da65730b" name="Default Changelist" comment="Homework 5, all tasks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -242,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606970568094</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Homework 5, all tasks">
+      <created>1607346111526</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607346111526</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -281,29 +277,30 @@
     <MESSAGE value="Lesson 3_i don't know" />
     <MESSAGE value="Create new file for lesson 5" />
     <MESSAGE value="Change Task 4.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change Task 4.1" />
+    <MESSAGE value="Homework 5, all tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 5, all tasks" />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="105" key="#Servers" timestamp="1606892034776">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="391" y="105" key="#Servers/0.0.1366.738@0.0.1366.738" timestamp="1606892034776" />
-    <state width="1345" height="231" key="GridCell.Tab.0.bottom" timestamp="1607345880153">
+    <state width="1345" height="231" key="GridCell.Tab.0.bottom" timestamp="1607345972563">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="231" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1607345880153" />
-    <state width="1345" height="231" key="GridCell.Tab.0.center" timestamp="1607345880152">
+    <state width="1345" height="231" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1607345972563" />
+    <state width="1345" height="231" key="GridCell.Tab.0.center" timestamp="1607345972563">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="231" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1607345880152" />
-    <state width="1345" height="231" key="GridCell.Tab.0.left" timestamp="1607345880152">
+    <state width="1345" height="231" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1607345972563" />
+    <state width="1345" height="231" key="GridCell.Tab.0.left" timestamp="1607345972563">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="231" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1607345880152" />
-    <state width="1345" height="231" key="GridCell.Tab.0.right" timestamp="1607345880153">
+    <state width="1345" height="231" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1607345972563" />
+    <state width="1345" height="231" key="GridCell.Tab.0.right" timestamp="1607345972563">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="231" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1607345880153" />
+    <state width="1345" height="231" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1607345972563" />
     <state width="1345" height="218" key="GridCell.Tab.1.bottom" timestamp="1606902140506">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -324,10 +321,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1606892119201" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1606918353715">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1607346115794">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1606918353715" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1607346115794" />
     <state x="293" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606900737940">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

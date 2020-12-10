@@ -26,16 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c54cf7b-2576-4f60-bfc9-49e1da65730b" name="Default Changelist" comment="Change Task 4.1">
-      <change afterPath="$PROJECT_DIR$/les_5/task2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les_5/task3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les_5/task4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les_5/task41.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les_5/task6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les_5/task7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les_5/task7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les_6/lesson6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les_6/task6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2020_8_39_[Default_Changelist]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/les_5/lesson5.py" beforeDir="false" afterPath="$PROJECT_DIR$/les_5/lesson5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/les_5/task1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/les_5/task1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +46,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson_4" />
+        <entry key="$PROJECT_DIR$" value="lesson_5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -324,10 +318,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1606892119201" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1606918353715">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1607597839518">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1606918353715" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1607597839518" />
     <state x="293" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606900737940">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

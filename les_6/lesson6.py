@@ -175,3 +175,4 @@ handle = Handle('Титул')
 pen.draw()
 pencil.draw()
 handle.draw()
+

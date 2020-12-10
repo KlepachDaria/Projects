@@ -25,8 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c54cf7b-2576-4f60-bfc9-49e1da65730b" name="Default Changelist" comment="Rename from task6 to hm_5.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8c54cf7b-2576-4f60-bfc9-49e1da65730b" name="Default Changelist" comment="Home work 6">
+      <change beforePath="$PROJECT_DIR$/les_6/hm_5.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/les_6/lesson6.py" beforeDir="false" afterPath="$PROJECT_DIR$/les_6/lesson6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -270,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607597942474</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Home work 6">
+      <created>1607605434078</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1607605434078</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -311,7 +318,8 @@
     <MESSAGE value="Change Task 4.1" />
     <MESSAGE value="Homework 6" />
     <MESSAGE value="Rename from task6 to hm_5." />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename from task6 to hm_5." />
+    <MESSAGE value="Home work 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home work 6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="105" key="#Servers" timestamp="1606892034776">
@@ -354,10 +362,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1606892119201" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1607597950624">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1607605445779">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1607597950624" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1607605445779" />
     <state x="293" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606900737940">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

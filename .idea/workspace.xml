@@ -25,11 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c54cf7b-2576-4f60-bfc9-49e1da65730b" name="Default Changelist" comment="Change Task 4.1">
-      <change afterPath="$PROJECT_DIR$/les_6/lesson6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les_6/task6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2020_8_39_[Default_Changelist]/shelved.patch" beforeDir="false" />
+    <list default="true" id="8c54cf7b-2576-4f60-bfc9-49e1da65730b" name="Default Changelist" comment="Rename from task6 to hm_5.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/les_6/lesson6.py" beforeDir="false" afterPath="$PROJECT_DIR$/les_6/lesson6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Python.lesson5">
+  <component name="RunManager" selected="Python.lesson6">
     <configuration name="lesson4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,6 +125,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lesson6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/les_6" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les_6/lesson6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,6 +169,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson6" />
         <item itemvalue="Python.lesson5" />
         <item itemvalue="Python.lesson4 (1)" />
         <item itemvalue="Python.task_1" />
@@ -236,7 +256,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606970568094</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Homework 6">
+      <created>1607597856298</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607597856299</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Rename from task6 to hm_5.">
+      <created>1607597942474</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607597942474</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -275,29 +309,31 @@
     <MESSAGE value="Lesson 3_i don't know" />
     <MESSAGE value="Create new file for lesson 5" />
     <MESSAGE value="Change Task 4.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change Task 4.1" />
+    <MESSAGE value="Homework 6" />
+    <MESSAGE value="Rename from task6 to hm_5." />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename from task6 to hm_5." />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="105" key="#Servers" timestamp="1606892034776">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="391" y="105" key="#Servers/0.0.1366.738@0.0.1366.738" timestamp="1606892034776" />
-    <state width="1345" height="231" key="GridCell.Tab.0.bottom" timestamp="1607345880153">
+    <state width="1345" height="231" key="GridCell.Tab.0.bottom" timestamp="1607605388074">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="231" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1607345880153" />
-    <state width="1345" height="231" key="GridCell.Tab.0.center" timestamp="1607345880152">
+    <state width="1345" height="231" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1607605388074" />
+    <state width="1345" height="231" key="GridCell.Tab.0.center" timestamp="1607605388074">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="231" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1607345880152" />
-    <state width="1345" height="231" key="GridCell.Tab.0.left" timestamp="1607345880152">
+    <state width="1345" height="231" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1607605388074" />
+    <state width="1345" height="231" key="GridCell.Tab.0.left" timestamp="1607605388074">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="231" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1607345880152" />
-    <state width="1345" height="231" key="GridCell.Tab.0.right" timestamp="1607345880153">
+    <state width="1345" height="231" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1607605388074" />
+    <state width="1345" height="231" key="GridCell.Tab.0.right" timestamp="1607605388074">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="231" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1607345880153" />
+    <state width="1345" height="231" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1607605388074" />
     <state width="1345" height="218" key="GridCell.Tab.1.bottom" timestamp="1606902140506">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -318,10 +354,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1606892119201" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1607597839518">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1607597950624">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1607597839518" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1607597950624" />
     <state x="293" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606900737940">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
